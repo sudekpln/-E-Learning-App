@@ -12,10 +12,12 @@ AnaSayfa:
 ![homepage2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d3cacceb-0ef1-40d4-963c-f8dfac9ce297)
 
 Eğik Düzlem:
+
 ![egikdüzlem1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/c492dded-f7c6-478d-82b8-f1dbab4c8f86)
 ![egikdüzlem2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d92e5129-452d-46b2-85f9-e94135bfaad3)
 
 Makara:
+
 ![makara1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/7f165096-1e43-46fa-a533-a6419c424ab7)
 ![makara2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/9abc9549-aff0-4e6a-a86f-ad97f9447971)
 
