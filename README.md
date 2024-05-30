@@ -7,10 +7,12 @@ Kullanıcılara elimden geldiğince geniş bir öğrenme yöntemleri yelpazesi s
 
 Giriş Ekranı:![giriş ekranı](https://github.com/sudekpln/-E-Learning-App/assets/63590581/1df4a4ab-0415-4384-87da-a5ea0c4a2ec5)
 
-AnaSayfa:![homepage1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/dd07dc81-09a1-4510-a946-da7e217cb7b2)
+AnaSayfa:
+![homepage1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/dd07dc81-09a1-4510-a946-da7e217cb7b2)
 ![homepage2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d3cacceb-0ef1-40d4-963c-f8dfac9ce297)
 
-Eğik Düzlem:![egikdüzlem1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/c492dded-f7c6-478d-82b8-f1dbab4c8f86)
+Eğik Düzlem:
+![egikdüzlem1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/c492dded-f7c6-478d-82b8-f1dbab4c8f86)
 ![egikdüzlem2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d92e5129-452d-46b2-85f9-e94135bfaad3)
 
 Makara:
