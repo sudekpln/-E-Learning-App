@@ -12,25 +12,21 @@ Giriş Ekranı:
 AnaSayfa:
 
 ![homepage1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/dd07dc81-09a1-4510-a946-da7e217cb7b2)
-
 ![homepage2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d3cacceb-0ef1-40d4-963c-f8dfac9ce297)
 
 Eğik Düzlem:
 
 ![egikdüzlem1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/c492dded-f7c6-478d-82b8-f1dbab4c8f86)
-
 ![egikdüzlem2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/d92e5129-452d-46b2-85f9-e94135bfaad3)
 
 Makara:
 
 ![makara1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/7f165096-1e43-46fa-a533-a6419c424ab7)
-
 ![makara2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/9abc9549-aff0-4e6a-a86f-ad97f9447971)
 
 Kaldıraç ve Vida Sayfaları:
 
 ![kaldırac1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/c44b57f3-e1c6-4525-ba38-d39f1778e119)
-
 ![Vida](https://github.com/sudekpln/-E-Learning-App/assets/63590581/63203362-3292-4685-ac9b-a1db1ea38c07)
 
 Yukarıdaki sayfalar temel bilgi içerir. Günlük hayattan örnekler verir. Konu anlatımı değildir.
@@ -38,7 +34,6 @@ Yukarıdaki sayfalar temel bilgi içerir. Günlük hayattan örnekler verir. Kon
 PDF: PDF içinde zoom yapılabiliyor, pdfler asset olarak çekiliyor, internetten link ile çağrılmıyor.
 
 ![pdf1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/71354795-8b24-4aac-9a81-e7cf05c05b58)
-
 ![pdf2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/55f4b8e8-3ede-4b5e-ae48-32099a8714f0)
 
 Konu Anlatımı: Videolar hızlandırılabiliyor/yavaşlatılabiliyor. Youtube linki çekiliyor.
@@ -52,7 +47,6 @@ Müzikle Öğren: Youtube linki çekiliyor.
 Test Çöz: Sorularda geri dönerek cevap değiştirilebiliyor. Şık seçildiğinde, seçilen şık kendini belli ediyor.
 
 ![soru1](https://github.com/sudekpln/-E-Learning-App/assets/63590581/976e0c91-11c9-464f-9396-5c407f923f87)
-
 ![soru2](https://github.com/sudekpln/-E-Learning-App/assets/63590581/525542da-34c0-4014-a85e-214bd1b8a7a8)
 
 Tüm sayfalar bunlardır.
